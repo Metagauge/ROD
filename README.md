@@ -83,3 +83,26 @@ MetaGauge aims to redefine the blockchain technology value chain through Reward,
 - Launch of MetaGauge governance
 - Release of MetaGauge 2.0
 - Mass marketing
+
+## Security audit
+
+The smart contracts of the Meta Gauge project have passed an AUDIT security audit from CertiK, the world's leading blockchain security firm based in the United States. Recognized by top security audit agencies, the Meta Gauge team is committed to securely storing and handling users' NFTs, tokens, and personal information.
+
+## Legal notice
+This whitepaper is written for reference purposes to provide information about the platform and its members to those expressing interest in the Meta Gauge project and its overall business plan.
+
+It is not intended to encourage investment, and Meta Gauge shall not be liable for any damages, losses, liabilities, or other financial harm resulting from investments, even if described in this document.
+
+It does not constitute inducement or solicitation for investment activities and is entirely unrelated to investment.
+
+All nodes in the Meta Gauge platform allocate a portion of their storage space through simple configurations, becoming storage nodes that store ecosystem participants' data and receive fees for doing so.
+
+Furthermore, the whitepaper presents the Meta Gauge business plan, which may be subject to changes based on requests and needs during the project's development.
+
+Therefore, it is recommended to make decisions regarding participation in the project based on personal judgment when using or referring to the whitepaper, and any outcomes resulting from such decisions, whether profit or loss, are entirely one's own responsibility, with legal liability also resting with oneself.
+
+Meta Gauge project cannot be held legally responsible for decisions made based on personal confirmation and reference, and it will not compensate, indemnify, or bear any responsibility for financial losses, damages, liabilities, etc., incurred by investors.
+
+The Meta Gauge project is not obliged to answer whether the whitepaper was written based on legal rights or whether it holds commercial value or usefulness.
+
+The whitepaper does not guarantee that it is suitable for specific purposes for individual investors or that its content is error-free.
