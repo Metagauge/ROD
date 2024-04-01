@@ -58,3 +58,28 @@ MetaGauge aims to redefine the blockchain technology value chain through Reward,
 
 ▪Tgyu Yun | Marketing Manager
 
+## Road Map
+### PHASE1
+- Launch of the official website
+- Release of ROD and MGR tokens
+- Launch of MetaGauge 0.9V TEST APP
+- Building up communities on Telegram, Twitter, and Discord
+
+### PHASE2
+- Launch of MetaGauge 1.0V DApp
+- Commencement of offline branch marketing
+- Listing on exchanges (DEX, CEX LISTING)
+- Listing on CoinMarketCap, CoinGecko
+- Opening of own NFT marketplace
+- Conducting offline advertisements
+- Announcement of key partnerships
+
+### PHASE3
+- Launch of the Trip Log ERP system
+- Opening of the P2P delivery system
+- Additional exchange listings (DEX LISTING)
+
+### PHASE4
+- Launch of MetaGauge governance
+- Release of MetaGauge 2.0
+- Mass marketing
