@@ -23,7 +23,6 @@ Users can receive MGR tokens as rewards starting from account level 20 of their 
 
 ◦Total supply: 10,000,000,000
 
- 
 ◉Token distribution information
 |List|quantity|
 |:---|:---|
@@ -34,3 +33,28 @@ Users can receive MGR tokens as rewards starting from account level 20 of their 
 |PUBLIC|6%|
 |VC|10%|
 |FOUNDATION|10%|
+
+## Teams
+> The MetaGauge team was formed during the development of the Pear2Pear Global Shipping DApp and also during the pivot to the "Mobility to Earn" project, which focuses on enhancing user mobility location (GPS) data!
+ 
+
+MetaGauge has reviewed the technical development of a user device-based mobility location (GPS) data platform applying blockchain technology to users' mobility data, ensuring security and privacy while enabling interconnection of each data.
+
+MetaGauge aims to redefine the blockchain technology value chain through Reward, NFT, and Game-Fi based on user location (GPS) data, breaking the boundaries between the mobility industry and interpreting the TaaS ecosystem. By providing NFT Game-Fi as a reward for data generation, MetaGauge enables users to produce sustainable mobility location (GPS) data without reluctance, paving the way for the creation of a completely new multi-mobility location (GPS) ecosystem in the future.
+
+▪James Byun   | Product Owner 
+
+▪Jaej Yoo | Back-end Engineer
+
+▪Hyeog Young | BlockChain  Engineer
+
+▪jun Huang | Front-end Engineer
+
+▪Hung Kein | Front-end Engineer
+
+▪HaLin | App Designer
+
+▪Bek | Product Designer
+
+▪Tgyu Yun | Marketing Manager
+
