@@ -86,6 +86,58 @@ Thus, the Composable CCCP-NFTs operating on the MetaGauge blockchain serve as de
 
 - 2023.12: Launch of open beta for iOS DApp version 1.0
 
+## Meta-gauge and mobility location (GPS) data
+### 2-1. Mobility Location (GPS) Data Status
+As of 2019, the average driving distance per car was 38.5 km, with a total mileage of 329.6 billion km for all vehicles. Seoul citizens traveled approximately 3,300 km per year using public transportation, covering about 9 km daily. Additionally, according to the International Civil Aviation Organization (ICAO) in 2017, the number of air passengers exceeded 4 billion during this period.
+
+A recent report from Morgan Stanley Investment Bank indicates that with the emergence of autonomous vehicles, the global vehicle operating time, currently at around 600 billion hours annually, is expected to increase by 25% to 750 billion hours by 2030 and potentially double by 2040. By 2030, it is estimated that people worldwide will spend 1.2 trillion hours in cars.
+
+While individuals continue to generate mobility data, most data producers are unaware of its importance and merely consume it. Users of large platforms consistently provide valuable location data, including travel routes, yet individuals, as data generators, do not receive any benefits. Conversely, giant capitals building platforms accumulate vast wealth in related industries based on these individuals' mobility and location data.
+
+However, given the rising importance of mobility data as a big issue in modern society, various approaches and sharing methods for individual data security and ownership are being proposed, particularly among traditional mobility industry leaders. For instance, Ford in the United States has launched two data products that provide easier access to data collected through vehicles. These products allow access to location, mileage, fuel usage data, and driver behavior, among other behavioral data points.
+
+The Korea Transport Institute (KOTI), a public institution in Korea, is making efforts to integrate data from various fields through its Mobility Big Data Center to enhance more efficient management. To achieve this, it aims to integrate and manage transportation-related big data, which are currently fragmented by sector, for problem-solving and decision-making purposes. This includes integrating and correlating various mobile big data such as vehicle navigation data, mobile communication data, and public transportation card data, as well as multi-faceted transportation data such as autonomous driving, logistics, aviation, and the national transportation database (국가교통DB). By providing integrated and interconnected transportation big data, KOTI aims to enhance accessibility and convenience for users in accessing mobility data.
+
+Global automobile manufacturers and public institutions are competitively entering the mobility data industry to preempt the enormous amount of big data expected to emerge in the future mobility industry. They are focusing on various attempts to integrate data for future mobility core technologies such as autonomous driving, eco-friendliness, urban air mobility, digital twins, high-definition maps, etc., and are also positioning themselves to enter related businesses.
+
+As seen in various cases, the potential for utilizing mobility data is expected to innovatively transform mobility life thus far. Alongside this, the exponential growth in the generation of mobility data and issues such as ownership, compensation, and trustworthiness of data are currently more critical than ever.
+
+However, the current mobility data market heavily relies on traditional methods of data collection (e.g., OBD) and largely excludes aspects related to ownership and compensation for individual data generators. While various proposals and solutions from startups and academia are being attempted, the reality is that challenges such as efficient value proposition and compensation to users due to data collection, ownership division, sharing, and authenticity issues have led to a stagnation in the web 2.0 era.
+
+Therefore, MetaGauge is collecting and analyzing mobility data from three major perspectives by connecting to a blockchain network based on user-centered mobility location (GPS) data in the future. It is a decentralized location-based (GPS) data company that integrates and collects various types of data, including travel data such as distance traveled, travel time, and frequency of travel; driving data such as sudden acceleration, sudden deceleration, and sharp turns; and mobility data such as origin, destination, mode of transportation (e.g., walking, car, airplane).
+
+Users can establish ownership of their data on the blockchain web 3.0-based platform through unique Composable-NFTs acquired through real GPS data verification.
+
+Various forms of Mobility to Earn, based on acquired NFTs, are implemented as location-based (GPS) data content linked to both the physical and virtual worlds (Land). Users profit by owning data generated through actual movement in the virtual world as well.
+
+Through MetaGauge's diverse metaverse platforms, users can expand their mobility location (GPS) data generated in real life, allowing anyone to create content based on mobility location (GPS) data without boundaries between online and offline.
+
+In this ecosystem of Composable-NFTs based on blockchain web 3.0 for mobility location (GPS) data, users are ensured monetary rewards and exclusive ownership rights for the new value of their created data through DIY NFTs. They can also monetize the collected information by trading various assets such as NFTs and ITEMS on the market within the MetaGauge ecosystem.
+
+Especially, by connecting to integrated mobility location (GPS) data that will be utilized in various industries such as insurance, logistics, finance, and automotive services, users can experience shared connections based on their real-world travel data, leading to connectivity to MetaGauge's offered metaverse (Land).
+
+## 2-2. Changes in Integrated Mobility Location (GPS) Based Data
+Experts predict that the future development direction of the market utilizing mobility location (GPS) data will evolve further in areas such as autonomous driving, eco-friendliness, urban air mobility, and ICT. It is expected that "door-to-door" autonomous vehicles, capable of driving from pick-up to drop-off, will become commonplace, and it will be possible to commute by flying through the sky to predetermined destinations using various GPS data.
+
+Moreover, individuals will experience innovative mobility environments, different from the past, where they can control various household electronic devices and enjoy movies within vehicles. Throughout this process, a vast amount of big data will be generated.
+
+In particular, mobility location-based (GPS) data is expected to evolve into a technology that enables sharing and experiences through blockchain-connected big data, as well as connections between reality and virtual worlds. It will converge with AI big data-based digital integrated mobility, such as micro-mobility connecting bicycles and shared kick scooters, autonomous vehicles, and urban air mobility, leading to a complete transformation of individuals' lifestyles.
+
+Location-based (GPS) mobility data is the most crucial element in related industries, but it is realistically challenging for individuals to process and own vast amounts of data.
+
+From the perspective of companies paying for utilization, unverified data is not trustworthy. Therefore, to address issues related to ownership, security, and privacy protection, there has been consideration of applying blockchain technology. This would enable secure handling of data while ensuring privacy, allowing for the interconnection of each data on a user device-based GPS mobility data platform like MetaGauge.
+
+### 2-3. Transformation of Mobility Data Value
+Transformation of Multi-Mobility Big Data, interlinked with fields such as autonomous driving, urban air mobility, and smart cities, is poised to become the lifeblood of future industries. The evaluation, translated into the mobility service value of the automotive industry, stands at an astonishing 7,000 trillion won.
+
+In the future, mobility big data is expected to bring about disruptive innovation in traditional mobility industries. MetaGauge aims to break down the boundaries between mobility industries through rewards and NFT GAME-Fi based on user location (GPS) data. It will pioneer business innovation in convergence and blockchain technology, leading to a complete overhaul of the multi-mobility ecosystem.
+
+1. MaaS (Mobility as a Service): This term refers to a new mobility service that integrates information on various modes of transportation such as buses, taxis, and shared vehicles to provide users with the optimal route. Similar to transferring between buses and subways with a transit card, MaaS allows users to conveniently access both traditional modes of transportation and shared services through a single integrated platform.
+
+1. LaaS (Logistics as a Service): LaaS can be defined as a platform that arranges the delivery of food or the transportation of goods, in addition to human mobility, and can be utilized as a service.
+
+1. TaaS (Transportation as a Service): TaaS is a concept that combines MaaS and LaaS. It is a higher-level concept that encompasses not only human mobility but also the movement of logistics. TaaS can be understood as mobility being utilized in various ways depending on the purpose, such as providing flexible services for both human and logistical movement.
+
 ## Token Nomics
 METAGAUGE TOKEN
 When using the MetaGauge DAPP, users can receive rewards in the form of ROD tokens and MGR tokens through mining by generating mobility location (GPS) data. ROD tokens and MGR tokens are swapped interchangeably. The swapping ratio fluctuates based on their respective values.
