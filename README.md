@@ -657,3 +657,21 @@ Meta Gauge project cannot be held legally responsible for decisions made based o
 The Meta Gauge project is not obliged to answer whether the whitepaper was written based on legal rights or whether it holds commercial value or usefulness.
 
 The whitepaper does not guarantee that it is suitable for specific purposes for individual investors or that its content is error-free.
+
+## Link
+### Meta Gauge Official Channel
+Website :  https://metagauge.run/
+
+### Meta Gauge Community Channel
+Discord : https://discord.gg/metagauge 
+
+Twitter : https://twitter.com/Meta_Gauge
+
+YouTube : https://youtube.com/@METAGAUGEOfficial
+
+Medium : https://medium.com/@metagauge
+
+Telegram : https://t.me/Metagauge_announcement
+
+#### E-mail
+contact@metagauge.io
