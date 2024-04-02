@@ -527,6 +527,28 @@ In the future, if the fuel level drops below 90%, the amount of RP rewards will 
 
 ∎ During the initial 1.0V Open Beta Testing (OBT), fuel will be fully recharged for free every Monday at 6:00 AM. After the initial period of user adaptation during the 1.0V OBT, the fuel policy outlined in the whitepaper will be implemented, with announcements made accordingly.
 
+### Meta Gauge Level System
+Meta Gauge DApp features a function to increase the account level. The daily maximum RP reward limit is set based on the Meta Gauge account level. Account level-up is possible based on the RP reward amount. RP amount within Meta Gauge serves as experience points. There are levels up to 60, where at level 60, you can receive up to 802 RP rewards per day. As the Meta Gauge account level increases, there is a certain probability that the rarity and quantity of acquired boxes will increase.
+
+**&#42;Decay Settings**: Every 2 years, the MP reward amount decreases by half. The RP experience reward amount varies depending on the ability value of NFT PARTS, and the daily maximum reward quantity of RP is determined based on the Meta Gauge DApp account level.
+
+### Meta Gauge System to be Revealed Later
+- Advertisement Passes
+
+- NFT and Item Protection Passes
+
+- Achievement System
+
+- Parts Casting Items
+
+- Synthesis Augmentation Elements
+
+- Raffle System
+
+- Others
+
+__*Notification: MetaGauge is currently undergoing Beta Testing, and the contents and policies of this whitepaper are subject to modification and improvement through version updates without prior notice.*__
+
 ## Token Nomics
 METAGAUGE TOKEN
 When using the MetaGauge DAPP, users can receive rewards in the form of ROD tokens and MGR tokens through mining by generating mobility location (GPS) data. ROD tokens and MGR tokens are swapped interchangeably. The swapping ratio fluctuates based on their respective values.
