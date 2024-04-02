@@ -223,6 +223,109 @@ MetaGauge has devised various reward mechanisms to make it easy and simple for W
 
 - The Daily Mode can be used concurrently with other modes.
 
+### RP mode
+RP(ROD TOKEN POINT) 모드 소개
+
+#### RP Mode users can earn RP points as rewards for using walking/running data!
+- While logged into the MetaGauge DApp, users can earn RP separately from mobile coupons and shopping-exclusive RPM points based on GPS data of over 1km.
+
+- There are no separate eligibility criteria for RP Mode and Daily Mode, and users can engage in overlapping activities.
+
+- RP Mode rewards users with RP points based on their frequent and extensive generation of GPS data. As users accumulate more RP experience through distance traveled and the frequency of movement, they can increase their "account level" through an algorithm, earning more RP (swappable to ROD tokens).
+
+- Users can acquire MetaGauge's Parts Item through check-ins, daily missions, various events, etc. Equipping acquired Parts Items can enhance MetaGauge's four attributes – power (GC), fuel efficiency (FE), durability (ST), etc., leveling up the RP reward amount.
+
+- RP rewards are reset at 06:00 KST the following day.
+
+- RP and ROD tokens are interchangeable at a 1:1 ratio.
+
+#### ROD TOKEN(Meta Gauge Utility Token)
+- ROD token serves as the utility token within the MetaGauge ecosystem, functioning as the core token in all Game-Fi activities.
+
+- Users can earn RP (exchangeable 1:1 with ROD TOKEN) by generating their GPS data through various means of movement such as walking, public transportation, or driving, and increasing their level based on distance, time, speed, frequency, etc.
+
+- Token Name: ROD TOKEN
+
+- Token Ticker: ROD Contract Address: 0x419CA793d74cc8d22535BCF611eFC134f7136731
+
+- Total Supply: Unlimited The issuance of ROD tokens is unlimited, but to prevent inflation, the issuance is restricted on a yearly, monthly, and daily basis.
+
+- The annual issuance of ROD tokens cannot exceed three times the annual supply of governance MGR tokens, designed to suppress the rapid inflation of utility ROD tokens.
+
+- Monthly and daily issuance of ROD tokens occurs within the annual issuance limit, and any unsupplied ROD tokens due to a low number of initial users accumulate in the storage pool.
+
+- It's important to note that actual ROD tokens are not accumulated in the storage pool; instead, RP is stored.
+
+- Accumulated RP in the storage pool is used for additional rewards when there's deflation due to an increase in users, when the later supply decreases by more than 30% compared to the initial supply, or when the reward amount for user account levels decreases by more than 30%. 
+
+- Additionally, it may be supplied to compensate for significantly lower rewards for later users compared to initial users.
+
+#### ROD TOKEN Burn address
+So far, many X-to-Earn projects have failed to achieve a sustainable revenue structure. To-earn projects have initially minted NFTs that could be considered as mining utilities tokens for initial development and operational funds, or to portray the project's success externally. Mining NFTs for early users have resulted in a boomerang effect, leading to a decline in utility token prices and accompanying NFT depreciation.
+
+MetaGauge refrains from selling NFTs that mine utility tokens initially to experiment with various options and solutions to prevent inflation of utility tokens. Additionally, we have devised various burn addresses as outlined below, and will continue to research and develop utility burn addresses. In the future, MetaGauge DAO will generate more experimental and innovative burn structures through voting.
+
+- Parts-NFT minting fee
+
+- Parts-NFT synthesis fee
+
+- In-house Parts NFT marketplace fee
+
+- Fuel refill fee
+
+- RP-ROD swap fee
+
+- MP-MGR swap fee
+
+- RP-MP, MP-RP swap fee
+
+- ROD-MGR, MGR-ROD swap fee
+
+- Various burn systems such as multi-occurrence
+
+- MetaBoxes in Game-Fi
+
+- Ad pass rights, protection rights, and various other burn systems will be disclosed in the future.
+
+#### ROD TOKEN & RP(ROD POINT)
+2-1) Policies regarding the RP mode users
+
+- The MetaGauge ecosystem is designed around increasing rewards in ROD and MGR tokens as users generate more location (GPS) data through their movement. It is structured to allow users to earn more tokens and NFT items as they accumulate "experience" through their GPS data. This decentralized "Mobility to Earn" model integrates Game-Fi where NFTs are generated and assembled using users' GPS data, creating a web2.3.0 hybrid experience.
+
+- MetaGauge DApp users can access all three modes regardless of their NFT holdings or activity range. Users can generate GPS data for all types of mobility and movements, including walking, public transportation, driving, and flying, and receive rewards in the form of RPM, RP, and MP points. Here are the user policies for earning RP rewards
+
+- Incorporate additional reward weighting for users who generate a large amount of MetaGauge's three integrated mobility GPS data: driving data, travel data, and movement data.
+
+- Design an algorithm to convert driving data into scores and apply additional reward weighting accordingly.
+
+- Develop an algorithm to reward users who input departure, destination, waypoints, etc., for movement data, in addition to generating GPS data.
+
+- Design an algorithm where users contributing more to the MetaGauge ecosystem receive additional reward weighting. This could include factors such as friend referrals, in-app activities, and account-level weighting linked to GPS data generation metrics.
+
+- Implement an algorithm where reward weighting increases based on the "CCCP-ITEM level," a scale representing the user's activity and contribution within the MetaGauge DApp. This weighting could increase based on three attributes: output, efficiency, and other abilities related to the CCCP-ITEM level.
+
+- Design an algorithm to address RP deflation scenarios, where the amount of RP rewards decreases based on account level. In such cases, calculate the reduction amount based on the average of users with higher RP reward experience within the daily, monthly, and yearly RP issuance limits, distributing the reduction equitably among affected users.
+
+2-2) Parameters for RP Reward Engagement Mode:
+
+- Distance traveled, number of trips, etc. - driving data
+
+- Equipped inventory item "output" and "efficiency" attributes
+
+- Rarity and quantity of Parts Items owned (to be applied in the future)
+
+- Quantity of Genesis NFTs owned (to be applied in the future)
+
+- Travel time, average speed, etc. - driving data (to be applied in the future)
+
+- Data on sudden acceleration, sudden deceleration, sharp turns, etc. - driving data (to be applied in the future)
+
+- Departure point, destination, waypoints, etc. - movement data (to be applied in the future)
+
+- Weighted rewards for manual start and manual end (to be applied in the future) Fuel consumption rate
+
+__* Notice: Detailed policies and implementation dates for the storage pool will be disclosed at a later date, and policies are subject to change or modification based on updates to the whitepaper.*__
+
 ## Token Nomics
 METAGAUGE TOKEN
 When using the MetaGauge DAPP, users can receive rewards in the form of ROD tokens and MGR tokens through mining by generating mobility location (GPS) data. ROD tokens and MGR tokens are swapped interchangeably. The swapping ratio fluctuates based on their respective values.
