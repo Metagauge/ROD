@@ -418,7 +418,7 @@ Users will receive randomly dropped five different attribute BOXes based on thei
 |Sticker|Epic / Legendary / Mystic|
 
 ### Meta Gauge NFT CCCP Parts Types
-!(https://metagauge.gitbook.io/~gitbook/image?url=https:%2F%2Fcontent.gitbook.com%2Fcontent%2Fcbv1NDZmcGpzcwDtAtJS%2Fblobs%2FJufF03KIsceDkqCVPMT2%2F%25E1%2584%258C%25E1%2585%25A1%25E1%2584%2589%25E1%2585%25A1%25E1%2586%25AB%252052@4x1.png&width=768&dpr=4&quality=100&sign=b68da61a0487dd106aabd7263d68a228c81166266392d8b23e9df03eb273826f)
+![대체 텍스트(Alternative Text)](https://metagauge.gitbook.io/~gitbook/image?url=https:%2F%2Fcontent.gitbook.com%2Fcontent%2Fcbv1NDZmcGpzcwDtAtJS%2Fblobs%2FJufF03KIsceDkqCVPMT2%2F%25E1%2584%258C%25E1%2585%25A1%25E1%2584%2589%25E1%2585%25A1%25E1%2586%25AB%252052@4x1.png&width=768&dpr=4&quality=100&sign=b68da61a0487dd106aabd7263d68a228c81166266392d8b23e9df03eb273826f)
 
 ## Token Nomics
 METAGAUGE TOKEN
