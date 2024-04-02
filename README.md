@@ -348,6 +348,58 @@ After sharing destination information, users can record their driving records. A
 
 Santa-certified users can automatically receive membership discounts when using the Meta Gauge NFT marketplace. Santa-certified users can also have the highest authentication privileges as contributors to the Meta Gauge ecosystem's governance. The Sharing Mode will become the cornerstone of Meta Gauge's core business model.
 
+## METAGAUGE NFT
+### Meta Gauge Genesis NFT
+- Meta Gauge Genesis NFT (currently tradable on the secondary market)
+
+- 3,000 initial Meta Gauge participants receive free minting of Genesis NFTs
+
+- Foundation holds 300 Genesis NFTs (intended for future use beyond marketing)
+
+- Benefits for Genesis NFT holders
+
+- Airdrop of Meta Gauge CCCP-Parts NFTs
+
+- Airdrop of governance token MGR
+
+- Priority access to Meta Gauge events and benefits
+
+- Stay tuned...
+
+### Meta Gauge CCCP-Parts NFT
+#### Types of Meta Gauge CCCP-Parts NFT
+- Engine
+
+- Body
+
+- Background
+
+- Wheel
+
+- Booster
+
+- Body Kit
+
+- Spoiler
+
+- Sticker
+
+### Meta Gauge Composable Parts NFT System
+Users will receive randomly dropped five different attribute BOXes based on their DApp user data generation and mission grades. They can open the BOXes without consuming RP. Upon opening a BOX, users can obtain Meta Gauge Parts items and have a chance to acquire RP. As the account level increases, users can obtain Meta Boxes with higher rarity. Additionally, users can acquire multiple Meta Boxes at once, but opening multiple Meta Boxes will require consuming RP.
+
+### Meta Gauge NFT and Item
+- META BOX: You can immediately open the acquired BOX for free. Depending on the type of box opened, you can obtain ITEM PARTS or RP.
+
+- ITEM PARTS: Users who open META BOXes have a chance to obtain ITEM PARTS. ITEM PARTS are not NFTs and can be minted into NFT PARTS using RP.
+
+|Item Parts Grades|Minting Fee (RP)|
+|:---|:---|
+|Common|600 RP|
+|Rare|1500 RP|
+|Epik|5,000 RP|
+|Legendary|20,000 RP|
+|Mystic|50,000 RP|
+
 ## Token Nomics
 METAGAUGE TOKEN
 When using the MetaGauge DAPP, users can receive rewards in the form of ROD tokens and MGR tokens through mining by generating mobility location (GPS) data. ROD tokens and MGR tokens are swapped interchangeably. The swapping ratio fluctuates based on their respective values.
