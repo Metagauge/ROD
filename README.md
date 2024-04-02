@@ -210,7 +210,7 @@ MetaGauge has devised various reward mechanisms to make it easy and simple for W
 
 - If you have any suggestions or questions regarding the Daily Mode, please feel free to contact our customer support center at any time via email at contact@metagauge.io.
 
-#### **Policy guide for using the Daily Mode**
+#### _Policy guide for using the Daily Mode_
 - When using the Daily Mode, it is necessary to grant all the recommended permissions as suggested by the MetaGauge DApp.
 
 - The MetaGauge DApp automatically detects user movement and starts rewarding users with rewards proportional to their location (GPS) data when they reach a certain speed. Users must set their location information to "Always Allow" for background operation.
