@@ -183,6 +183,46 @@ MetaGauge is a platform that provides the "Mobility to Earn" service, integratin
 
 1. MP can be swapped for MGR tokens
 
+## METAGAUGE Game-Fi
+MetaGauge offers three user modes that are open to everyone. Among them, the Daily Mode is a service where users can receive dedicated RPM POINTs used for gifts, shopping, and more.
+
+MetaGauge has devised various reward mechanisms to make it easy and simple for Web 2.0 users to experience Web 3.0 while continuously using the platform through the Daily Mode. Even users who are unfamiliar with Gas Fees will be able to enjoy a new experience of creating ITEMs as NFTs for free through the Daily Mode. MetaGauge believes that this will increase the natural influx of users to Web 3.0.
+
+### Daily mode
+#### Daily Mode users can earn RPM and RP points as rewards for their walking/running data!
+- Daily Mode users can earn 20 RPM as a reward each time they generate walking data, with a limit of 100 RPM per day, capped at 5 times a day in version 1.0. This limit may be subject to change based on future Daily Mode operating policies.
+
+- If a user only generates one walking data entry per day, they will receive one 20 RPM reward point through the "Point Acquisition" button. In this case, the user can complete Daily Missions or other content to accumulate the remaining 4 RPM points.
+
+- In the future, users may choose to convert their accumulated points through walking data generation into RP. In this scenario, the maximum amount of RP points that can be earned is capped at 10 RP, subject to potential changes in MetaGauge's operating policies.
+
+- The 100 points earned from 5 sessions per day can be converted into 100 Korean won and redeemed for gift coupons and shopping items. This redemption policy may also be subject to change based on future Daily Mode operating policies.
+
+- When the "Point Accumulation" button for RPM rewards in Daily Mode is clicked, a video advertisement will play. After the completion of the advertisement, users must click the "Accumulation Button" to receive the points.
+
+#### RPM points are dedicated points used for coffee, convenience store purchases, mobile coupons, shopping, and more!
+- It can be exchanged for various items such as convenience store items, bakery goods, pizza, movie tickets, mobile vouchers, and more.
+
+- In the future, it will also be exchangeable for a variety of shopping products and services including health supplements and automotive accessories.
+
+#### After version 1.0, users will be able to earn RPM points through even more diverse daily missions!
+- We plan to introduce new and fresh daily missions such as Daily Quiz, Daily Likes, Daily Challenges, Daily Draw, Daily Visits, and more, to open up additional ways to earn rewards.
+
+- If you have any suggestions or questions regarding the Daily Mode, please feel free to contact our customer support center at any time via email at contact@metagauge.io.
+
+#### Policy guide for using the Daily Mode
+- When using the Daily Mode, it is necessary to grant all the recommended permissions as suggested by the MetaGauge DApp.
+
+- The MetaGauge DApp automatically detects user movement and starts rewarding users with rewards proportional to their location (GPS) data when they reach a certain speed. Users must set their location information to "Always Allow" for background operation.
+
+- The quantity of RPM rewards may be subject to changes such as the daily accumulation frequency, quantity, or suspension of RPM reward policies according to MetaGauge's operational policies. In such cases, advance notice will be provided.
+
+- RPM rewards are reset at 24:00 KST (Korean Standard Time) every day.
+
+- Devices that do not support RPM point rewards may have restrictions on using this Daily Mode.
+
+- The Daily Mode can be used concurrently with other modes.
+
 ## Token Nomics
 METAGAUGE TOKEN
 When using the MetaGauge DAPP, users can receive rewards in the form of ROD tokens and MGR tokens through mining by generating mobility location (GPS) data. ROD tokens and MGR tokens are swapped interchangeably. The swapping ratio fluctuates based on their respective values.
