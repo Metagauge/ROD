@@ -326,6 +326,28 @@ MetaGauge refrains from selling NFTs that mine utility tokens initially to exper
 
 __* Notice: Detailed policies and implementation dates for the storage pool will be disclosed at a later date, and policies are subject to change or modification based on updates to the whitepaper.*__
 
+### MP mode
+#### MP mode users can earn MP points as rewards by generating GPS data for all types of transportation usage, starting from Parts-NFT level 20 users!
+
+- The MP mode is available only to users with CCCP-Parts NFT account level 20 or higher. In the MP mode, users can earn two types of rewards, MP (MGR TOKEN POINT) and RP (ROD TOKEN POINT), by generating mobility GPS data.
+
+- MP users can generate GPS data and use the Parts-items obtained as rewards to mint NFTs using the RP they have earned (applied in 1.0V). By upgrading the Parts-NFT grade and increasing the values of four attributes including output, torque, fuel efficiency, and Santa, through the NFT leveling up algorithm, users can acquire more MP (swappable for MGR tokens).
+
+- Users can obtain MetaGauge's Parts Items through activities such as check-ins, daily missions, ranking systems, lotto raffles, etc. Additionally, users can purchase Parts-NFTs with attributes suitable for their activity range from the NFT market to increase their grade and NFT level.
+
+- MP and MGR TOKEN are swappable at a 1:1 ratio, and MGR and ROD are also swappable.
+
+- Mining rewards for MP start from NFT level 20 or higher, but there is a daily mining reward limit for each NFT level.
+
+#### Sharing Mode" (Peer-to-Peer global feature/ to be disclosed later)
+The "Sharing Mode" is a service that allows users to immediately connect their product deliveries to similar destinations by sharing destinations with other Meta Gauge DAPP users. Users can contribute to environmental protection by saving the distance of separately delivered products through sharing deliveries with other users in similar directions, thus reducing carbon emissions. Users participating in deliveries may receive more RP or MP token mining rewards compared to regular users and can convert reduced carbon footprints into credits.
+
+In addition, users of the Sharing Mode are KYC-verified individuals. They are granted the Santa Patch provided to top governance members and belong to the upper echelons of Meta Gauge certification levels. In essence, the Sharing Mode is an authenticated mode where users share destination information and participate in P2P global delivery for higher mining rewards.
+
+After sharing destination information, users can record their driving records. At the same time, the Meta Gauge DAPP automatically generates daily driving memos by recording driving distance, time, and speed.
+
+Santa-certified users can automatically receive membership discounts when using the Meta Gauge NFT marketplace. Santa-certified users can also have the highest authentication privileges as contributors to the Meta Gauge ecosystem's governance. The Sharing Mode will become the cornerstone of Meta Gauge's core business model.
+
 ## Token Nomics
 METAGAUGE TOKEN
 When using the MetaGauge DAPP, users can receive rewards in the form of ROD tokens and MGR tokens through mining by generating mobility location (GPS) data. ROD tokens and MGR tokens are swapped interchangeably. The swapping ratio fluctuates based on their respective values.
