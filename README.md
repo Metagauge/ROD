@@ -418,7 +418,53 @@ Users will receive randomly dropped five different attribute BOXes based on thei
 |Sticker|Epic / Legendary / Mystic|
 
 ### Meta Gauge NFT CCCP Parts Types
-![대체 텍스트(Alternative Text)](https://metagauge.gitbook.io/~gitbook/image?url=https:%2F%2Fcontent.gitbook.com%2Fcontent%2Fcbv1NDZmcGpzcwDtAtJS%2Fblobs%2FJufF03KIsceDkqCVPMT2%2F%25E1%2584%258C%25E1%2585%25A1%25E1%2584%2589%25E1%2585%25A1%25E1%2586%25AB%252052@4x1.png&width=768&dpr=4&quality=100&sign=b68da61a0487dd106aabd7263d68a228c81166266392d8b23e9df03eb273826f)
+![Engines, Body, Background, Rims, Booster, Bodykit, Spoilers, Stickers](https://metagauge.gitbook.io/~gitbook/image?url=https:%2F%2Fcontent.gitbook.com%2Fcontent%2Fcbv1NDZmcGpzcwDtAtJS%2Fblobs%2FJufF03KIsceDkqCVPMT2%2F%25E1%2584%258C%25E1%2585%25A1%25E1%2584%2589%25E1%2585%25A1%25E1%2586%25AB%252052@4x1.png&width=768&dpr=4&quality=100&sign=b68da61a0487dd106aabd7263d68a228c81166266392d8b23e9df03eb273826f)
+
+#### The types of META BOXES
+
+- EVENT BOX: Boxes obtainable through external events (NFT acquisition).
+
+- NFT BOX: Boxes obtainable through special benefits such as NFT auctions or Genesis airdrops (acquisition of Parts Item/free minting/no RP consumption).
+
+- META BOX: Parts-Item boxes obtainable by achieving DApp missions or achievements (RP or ITEM PARTS).
+
+- GPS-BOX: Item BOX obtainable through missions.
+
+#### The probability of obtaining items and RP from META BOX varies
+|BOX Tier|Item|Low item|RP acquire|
+|:---|:---|:---|:---|
+|Common|10%(Common)|0%|90%|
+|Rare|10%(Rare)|20%(Common)|70%|
+|Epik|20%(Epik)|80%(Rare)|0%|
+|Legendary|10%(Legendary)|90%(Epik)|0%|
+|Mystic|1%(Mystic)|99%(Legendary)|0%|
+
+#### META BOX Types by Grade
+- COMMON BOX
+
+- REAR BOX
+
+- EPIK BOX
+
+- LEGENDARY BOX
+
+- MYSTIC BOX
+
+#### Acquiring META BOX by Leveling Up
+![Acquisition of Meta Box through Level Up](https://metagauge.gitbook.io/~gitbook/image?url=https:%2F%2F4199871182-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fcbv1NDZmcGpzcwDtAtJS%252Fuploads%252F8vftGQtwkS5qqassJCgP%252F%25EC%259E%2590%25EC%2582%25B0%252013%25401.5x-100.jpg%3Falt=media%26token=1ee5c7d2-d941-4475-a546-48726f6a0bcf&width=768&dpr=1&quality=100&sign=e827e547b4f863f0f21af145fbc983d2fcd33376935db07de9223d2828a08f1e)
+
+Users can obtain META BOXES when leveling up to level 60.
+
+#### The number of META BOXES obtainable at level 60 varies by grade.
+- COMMON : 27
+
+- REAR : 19
+
+- EPIK : 14
+
+- LEGENDARY : 8
+
+- MYSTIC : 1
 
 ## Token Nomics
 METAGAUGE TOKEN
