@@ -162,7 +162,7 @@ The MetaGauge ecosystem aims to prioritize user engagement in daily activities c
 ## Mobility to Earn
 MetaGauge is a platform that provides the "Mobility to Earn" service, integrating users' driving data, vehicle operation data, and movement data to ensure ownership rights and enable fair compensation. MetaGauge is committed to Web 3.0 principles, allowing users to freely generate data and participate in the governance ecosystem by receiving tokens as fair compensation. Through MetaGauge's DApp, users can generate driving data such as distance, duration, and frequency, as well as movement data such as origin and destination, to earn RP points. Additionally, users can acquire 8 different PARTS-ITEMs based on their data generation volume and ecosystem contribution. These acquired PARTS-ITEMs have varying attributes and rarity based on their grade. Users can assemble PARTS-ITEMs in a composable manner to create their unique NFTs. The level of these NFTs influences the reward limit of MP points. Various events and destination missions provide additional opportunities for users to earn more RP points and acquire PARTS-ITEMs.
 
-### <User Process for DApp> Earning Points
+### &#60;User Process for DApp&#62; Earning Points
 1. Earning RPM (Shopping-Exclusive Point) and RP through Mobility and Exercise Modes.
 
 1. RP can be swapped for ROD tokens.
