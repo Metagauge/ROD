@@ -138,6 +138,51 @@ In the future, mobility big data is expected to bring about disruptive innovatio
 
 1. TaaS (Transportation as a Service): TaaS is a concept that combines MaaS and LaaS. It is a higher-level concept that encompasses not only human mobility but also the movement of logistics. TaaS can be understood as mobility being utilized in various ways depending on the purpose, such as providing flexible services for both human and logistical movement.
 
+## The token economy and ecosystem of MetaGauge
+The MetaGauge ecosystem operates with two tokens: the utility token 'ROD' and the governance token 'MGR'. The utility token, obtained solely through user location-based (GPS) mobility data, operates as a 100% mineable token with no issuance limit.
+
+The utility ROD token will serve as the foundational token within the MetaGauge ecosystem, utilized for Composable-NFTs, Game-Fi, and the platform's internal marketplace.
+
+The MGR token allows users to access the MetaGauge marketplace with reduced fees based on their holding amount and lock-up period. Additionally, users can enhance their mining power for the utility token through various means such as different modes of transportation, distances traveled, time spent, frequency of travel, speed, and input of origin and destination, thereby acquiring more ROD tokens, MGR tokens, and Parts NFTs.
+
+Composable-NFT holders in the MetaGauge ecosystem will have priority participation rights in governance land ownership, centered around landmarks worldwide. Landowners in the virtual world will be able to generate revenue by creating various game module contents based on real-world location (GPS) data and trading them on the marketplace. They can also earn module usage fees from participants, provide challenges such as campaigns to participants within their virtual world, or generate revenue by renting out Parts-Items to others through the "certified rental operator system."
+
+For instance, users can purchase NFT car racing track modules proportional to the distance covered by real-world location (GPS) data and organize car races, or offer various challenges such as campaigns to participants within the metaverse. Users can also monetize by exposing advertisements on objects such as roads and buildings along their real-world location (GPS) data movement paths. Certified rental users holding several high-rarity Parts-Items can earn rental fees by renting them out to users with longer travel distances. Overall, MetaGauge aims to create an innovative integrated mobility data ecosystem accessible to everyone through Mobility to Earn, based on Web 3.0 technology.
+
+MetaGauge plans to implement a unique E-Commerce platform based on mobility location (GPS) data, connecting it to real-world Mobility after Market sectors such as automotive accessories, car wash, and maintenance. This will be a core business implementation within MetaGauge's token economy.
+
+In particular, the Composable-Parts NFTs, validated through MetaGauge's Web 3.0-based GPS data verification method, will become key assets in the future TaaS (Transportation as a Service) business ecosystem that MetaGauge aims to establish. Parts-NFT and MGR token holders can generate revenue through peer-to-peer delivery transactions in real life, sell products and services in the metaverse, or connect to innovative P2P E-Commerce platforms for delivery and storage.
+
+MetaGauge DApp services are poised to grow into an integrated mobility location (GPS) data platform where global users can engage. Users will be able to input their mobility data directly, including origin, destination, waypoints, and mode of transportation, and share it with other users on the platform, thus instantly connecting globally 24/7 through the TaaS ecosystem.
+
+In this scenario, users wishing to travel through mobility will be automatically matched with logistics data to perform delivery, generating additional income through delivery fees in MGR tokens. They can also acquire achievement boxes at their destination, create limited edition Parts Items, and experience special Web 3.0 experiences.
+
+The MetaGauge ecosystem aims to prioritize user engagement in daily activities closely related to mobility through "Mobility to Earn." Users will experience remarkable economic incentives based on their contributions to the ecosystem and the CCCP-NFTs utilizing MetaGauge's blockchain-based Web 3.0 GPS data verification technology.
+
+## Mobility to Earn
+MetaGauge is a platform that provides the "Mobility to Earn" service, integrating users' driving data, vehicle operation data, and movement data to ensure ownership rights and enable fair compensation. MetaGauge is committed to Web 3.0 principles, allowing users to freely generate data and participate in the governance ecosystem by receiving tokens as fair compensation. Through MetaGauge's DApp, users can generate driving data such as distance, duration, and frequency, as well as movement data such as origin and destination, to earn RP points. Additionally, users can acquire 8 different PARTS-ITEMs based on their data generation volume and ecosystem contribution. These acquired PARTS-ITEMs have varying attributes and rarity based on their grade. Users can assemble PARTS-ITEMs in a composable manner to create their unique NFTs. The level of these NFTs influences the reward limit of MP points. Various events and destination missions provide additional opportunities for users to earn more RP points and acquire PARTS-ITEMs.
+
+### <User Process for DApp> Earning Points
+1. Earning RPM (Shopping-Exclusive Point) and RP through Mobility and Exercise Modes.
+
+1. RP can be swapped for ROD tokens.
+
+1. ROD tokens can be swapped for MGR tokens to acquire PARTS-ITEMs.
+
+1. Users can acquire assets based on MetaGauge's token economy and ecosystem contribution.
+
+1. through various in-app missions.
+
+1. Burning RP to mint ITEMs as NFTs.
+
+1. Acquired ITEMs are divided into a total of 8 PARTS.
+
+1. Collecting each PARTS grants NFT levels according to NFT grades.
+
+1. Daily MP (MGR POINT) reward limit is determined by the account's NFT LEVEL.
+
+1. MP can be swapped for MGR tokens
+
 ## Token Nomics
 METAGAUGE TOKEN
 When using the MetaGauge DAPP, users can receive rewards in the form of ROD tokens and MGR tokens through mining by generating mobility location (GPS) data. ROD tokens and MGR tokens are swapped interchangeably. The swapping ratio fluctuates based on their respective values.
