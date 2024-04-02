@@ -488,6 +488,45 @@ NFT PARTS have an NFT LEVEL for each grade. The attributes granted for each grad
 
 Users can acquire a total of 8 NFT PARTS components. If all 8 PARTS are Mystic, the NFT LEVEL will be 128.
 
+## Other systems of MetaGauge
+### Automatic Start/Stop System
+The Meta Gauge DApp automatically starts when the vehicle is traveling at over 15 km/h and automatically stops when it has been traveling at speeds below 10 km/h for 10 minutes. In the case of exercise mode, users can manually start it, and even if they do not manually stop it after the exercise is complete, it will be automatically stopped.
+
+### Meta Gauge Fuel System
+Users receive RP mining rewards through the generation of mobility and exercise location (GPS) data in the Meta Gauge DApp. Similar to how fuel is consumed when driving or using mobility in the real world, users consume fuel proportionate to the amount of RP rewards mined. Users can spend the rewarded RP to recharge their fuel.
+
+In the future, if the fuel level drops below 90%, the amount of RP rewards will decrease. The fuel decrease rate is calculated based on the status at 06:00 AM the next day. Users need to ensure that their fuel does not drop below 90% by 06:00 AM the next day.
+
+#### When refueling, the deduction in RP reward amount is as follows.
+- When the fuel is below 90%, the RP reward amount decreases by 10%.
+
+- When the fuel is below 80%, the RP reward amount decreases by 20%.
+
+- When the fuel is below 50%, the RP reward amount decreases by 50%.
+
+- When the fuel is at 30%, the RP reward amount decreases by 80%.
+
+- When the fuel is at 10%, the RP reward amount decreases by 90%.
+
+∎ Fuel replenishment will be made possible through advertisements and participation in ad campaigns.
+
+#### The refueling cost is as follows.
+- When the fuel is above 80%, deduct 15% of the daily account reward and recharge to 100%.
+
+- When the fuel is above 50%, deduct 20% of the daily account reward and recharge to 100%.
+
+- When the fuel is above 20%, deduct 30% of the daily account reward and recharge to 100%.
+
+- When the fuel is below or equal to 20%, deduct 40% of the daily account reward and recharge to 100%.
+
+- When the fuel is at 0%, deduct 50% of the daily mining reward and recharge to 100%.
+
+∎ The above fuel recharge policy applies only if recharged before 6 AM the next day.
+
+∎ You can recharge the fuel to 100% before 6 AM the next day.
+
+∎ During the initial 1.0V Open Beta Testing (OBT), fuel will be fully recharged for free every Monday at 6:00 AM. After the initial period of user adaptation during the 1.0V OBT, the fuel policy outlined in the whitepaper will be implemented, with announcements made accordingly.
+
 ## Token Nomics
 METAGAUGE TOKEN
 When using the MetaGauge DAPP, users can receive rewards in the form of ROD tokens and MGR tokens through mining by generating mobility location (GPS) data. ROD tokens and MGR tokens are swapped interchangeably. The swapping ratio fluctuates based on their respective values.
