@@ -466,6 +466,28 @@ Users can obtain META BOXES when leveling up to level 60.
 
 - MYSTIC : 1
 
+### PARTS NFT
+#### Attributes of NFT
+- "Generating capacity" represents the power of the NFT engine, indicating the ability to mine more ROD tokens. Higher generating capacity allows users to reach their daily mining limits more quickly, even with shorter distances traveled. This attribute is advantageous for users with shorter daily distances.
+
+- "Torque" represents the instantaneous speed power of the NFT, indicating the ability to mine more MP tokens. Higher torque allows for more efficient mining of MP tokens. Mining of MGR tokens is possible for NFTs of epic grade or higher.
+
+- "Fuel efficiency" refers to the ability to reduce the rate at which fuel decreases during RP mining. This attribute helps maintain a certain fuel efficiency ratio relative to output. It is advantageous for users with long daily distances.
+
+- "Santa" influences all probabilities within the DApp. By increasing the enhancement probability of NFT Parts, it allows users to receive higher-level NFT Parts Airdrops.
+
+#### NFT PARTS
+NFT PARTS have an NFT LEVEL for each grade. The attributes granted for each grade are randomized.
+|TIER|NFT LEVEL|Give to ability|Ability(min-max)|
+|:---|:---|:---|:---|
+|Common|1|Get 1 GC|8-16|
+|Rare|2|Get 1 GC and Get 1 of FE, ST, TQ|8-16|
+|Epik|4|Get 3 of GC, FE, ST, TQ|10-21|
+|Legendary|8|Get all GC, FE, ST, TQ|16-32|
+|Mystic|16|Get all GC, FE, ST, TQ|32-64|
+
+Users can acquire a total of 8 NFT PARTS components. If all 8 PARTS are Mystic, the NFT LEVEL will be 128.
+
 ## Token Nomics
 METAGAUGE TOKEN
 When using the MetaGauge DAPP, users can receive rewards in the form of ROD tokens and MGR tokens through mining by generating mobility location (GPS) data. ROD tokens and MGR tokens are swapped interchangeably. The swapping ratio fluctuates based on their respective values.
