@@ -660,7 +660,7 @@ The whitepaper does not guarantee that it is suitable for specific purposes for 
 
 ## Link
 ### Meta Gauge Official Channel
-Website:  <a href="https://metagauge.run" target="_blank">https://metagauge.run</a>
+Website:  <a href="https://metagauge.run" target="_blank"> https://metagauge.run </a>
 
 ### Meta Gauge Community Channel
 Discord : https://discord.gg/metagauge 
