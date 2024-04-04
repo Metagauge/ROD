@@ -673,5 +673,10 @@ Medium : https://medium.com/@metagauge
 
 Telegram : https://t.me/Metagauge_announcement
 
+### APP Downloads
+Google Play Sore DOWNLOAD : https://play.google.com/store/search?q=metagauge&c=apps&hl=ko-KR&pli=1
+
+Apple App Store DOWNLOAD : https://apps.apple.com/kr/app/metagauge/id6472140397
+
 #### E-mail
 contact@metagauge.io
